@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arda Toraman</h1>
 <h3 align="center">Turning Ideas into Pixel-Perfect, User-Focused Web Apps</h3>
 
-- 🔭 I’m currently working on [Mentorum](https://mentorum.com.tr/)
-
 - 🌱 I’m currently learning **Next.js Advanced Patterns , Node.js Performance Tuning, TailwindCSS, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://toramanarda.com.tr/](https://toramanarda.com.tr/)
